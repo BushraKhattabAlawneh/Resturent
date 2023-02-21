@@ -15,7 +15,7 @@ namespace Resturent.Controllers
 
         public ProductsController(ModelContext context)
         {
-            _context = context;
+            //_context = context;
         }
         [HttpGet]
         // GET: Products
